@@ -10,8 +10,8 @@ The environment is slippery, so the agent has a chance of moving in the opposite
 ### States:
 The environment has 7 states:
 
-Two Terminal States: G: The goal state & H: A hole state.
-Five Transition states / Non-terminal States including S: The starting state.
+-Two Terminal States: G: The goal state & H: A hole state.
+-Five Transition states / Non-terminal States including S: The starting state.
 ### Actions:
 The agent can take two actions:
 
